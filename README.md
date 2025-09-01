@@ -46,25 +46,25 @@ cd optiquote
 
 ## 🔧 How It Works
 
-On page load → fetch a random quote
-Click “New Quote” → fetch another
-Click “Copy” → quote goes to clipboard
+- On page load → fetch a random quote
+- Click “New Quote” → fetch another
+- Click “Copy” → quote goes to clipboard
 
 
 ## 🚀 Future Enhancements
 
-🗂️ Add quote categories (Motivation, Life, Coding)
-🌈 Dynamic background color transitions
-⭐ Save & view favorite quotes
-📱 Add smooth animations for mobile
+- 🗂️ Add quote categories (Motivation, Life, Coding)
+- 🌈 Dynamic background color transitions
+- ⭐ Save & view favorite quotes
+- 📱 Add smooth animations for mobile
 
 ## 🤝 Contributing
-Contributions are welcome!
-Fork the repo
-Create a new branch
-Commit your changes
-Submit a pull request 🚀
+- Contributions are welcome!
+- Fork the repo
+- Create a new branch
+- Commit your changes
+- Submit a pull request 🚀
 
 ## 📜 License
-Licensed under the MIT License 📝
-Feel free to use & modify.
+- Licensed under the MIT License 📝
+- Feel free to use & modify.
